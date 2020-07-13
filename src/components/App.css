@@ -1,0 +1,23 @@
+#root {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.app {
+  height: 100%;
+  width: 100%;
+  background-image: url('/images/pizza-header.jpg');
+  background-repeat: no-repeat;
+  background-position: right top;
+  font-family: 'Roboto';
+}
+
+.app-section {
+  width: 100%;
+  background-color: #f6f6f6;
+  padding: 20px;
+  height: 100%;
+}
